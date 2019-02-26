@@ -5,3 +5,6 @@ authors = ["khigasa <kojihigasa@gmail.com>"]
 edition = "2018"
 
 [dependencies]
+termion = "1.5.1"
+clap = "2.32.0"
+
